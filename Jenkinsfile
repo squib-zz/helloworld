@@ -14,4 +14,3 @@ node {
         sh 'npm prune'
         sh 'rm node_modules -rf'
 }
-#!groovy test
